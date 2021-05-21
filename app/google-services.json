@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "87735484673",
+    "project_id": "checkbox-1be1c",
+    "storage_bucket": "checkbox-1be1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87735484673:android:836e72214a81b70958db00",
+        "android_client_info": {
+          "package_name": "com.example.check"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87735484673-l686i8pe0khhuuf00p97elghvi906oj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMSkVLp-Ax33juidsQxvH_Z6RU1UIN7xQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87735484673-l686i8pe0khhuuf00p97elghvi906oj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
